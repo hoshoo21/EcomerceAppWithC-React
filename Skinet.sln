@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinetApi", "Skinet\SkinetApi.csproj", "{83B30C63-9ADC-4087-B6B2-0F69C04B395E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83B30C63-9ADC-4087-B6B2-0F69C04B395E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B30C63-9ADC-4087-B6B2-0F69C04B395E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B30C63-9ADC-4087-B6B2-0F69C04B395E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B30C63-9ADC-4087-B6B2-0F69C04B395E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC788D8E-62C9-4AFB-91C7-5378DD6AAAC4}
+	EndGlobalSection
+EndGlobal
