@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.EntityFrameworkCore;
+using Core.Entities;
 namespace Infrastructure.Data
 {
     public class StoreContext:DbContext
@@ -7,7 +8,10 @@ namespace Infrastructure.Data
         public StoreContext(DbContextOptions<StoreContext> options) : base(options) { 
             
         }
-        public DbSet<Infrastructure.Entities.Product> Products { get; set; }
+        public DbSet<Product> Products { get; set; }
+
+        public DbSet<ProductType> ProductTypes { get; set; }
+        public DbSet<ProductBrand> ProductBrands { get; set; }
 
 
     }

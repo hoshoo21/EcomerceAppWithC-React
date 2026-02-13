@@ -2,7 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Data;
-using Infrastructure.Entities;
+using Core.Entities;
+using Core.Interfaces;
 
 namespace SkinetApi.Controllers
 {
@@ -10,25 +11,39 @@ namespace SkinetApi.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private  StoreContext _storecontext;
+        private  IProductRepositroy _repository;
        
-        public  ProductsController(StoreContext context)
+        public  ProductsController(IProductRepositroy repo)
         {
-            _storecontext = context;
+            _repository = repo;
         }
         
         [HttpGet]
 
         public async Task<ActionResult<List<Product>>> GetProducts()
         {
-            var products =await _storecontext.Products.ToListAsync();
+            var products = await _repository.GetProductsAsync();
             return Ok(products);   
         }
         [HttpGet("{id}")]
 
         public async Task<ActionResult<Product>> GetProducts(int id)
         {
-            return await _storecontext.Products.FindAsync(id);
+            return await _repository.GetProductByIdAsync(id);
+        }
+
+        [HttpGet("brands")]
+
+        public async Task<ActionResult<List<ProductBrand>>> GetProductBrands()
+        {
+            return Ok(await _repository.GetProductBrands());
+        }
+
+        [HttpGet("producttypes")]
+
+        public async Task<ActionResult<List<ProductType>>> GetProductTypes()
+        {
+            return Ok(await _repository.GetProductTypes());
         }
 
     }

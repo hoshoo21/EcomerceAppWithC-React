@@ -3,68 +3,48 @@
   "WorkspaceRootPath": "D:\\.netFrameWork\\Ecommerce\\Skinet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\migrations\\20260212191912_[initialmigrations].designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\migrations\\20260212191912_[initialmigrations].designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\migrations\\20260212191912_[initialmigrations].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\migrations\\20260212191912_[initialmigrations].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|d:\\.netframework\\ecommerce\\skinet\\core\\interfaces\\iproductrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|d:\\.netframework\\ecommerce\\skinet\\core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|solutionrelative:core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|d:\\.netframework\\ecommerce\\skinet\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6930E9E1-8EFC-4DEB-88EC-A2C02BF49396}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|d:\\.netframework\\ecommerce\\skinet\\core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|solutionrelative:core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|d:\\.netframework\\ecommerce\\skinet\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|d:\\.netframework\\ecommerce\\skinet\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\skinet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\skinet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\skinetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\skinetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|d:\\.netframework\\ecommerce\\skinet\\skinet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B30C63-9ADC-4087-B6B2-0F69C04B395E}|Skinet\\SkinetApi.csproj|solutionrelative:skinet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|d:\\.netframework\\ecommerce\\skinet\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC08609-CB0E-49FE-B56A-2C77EEE69D6E}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,77 +54,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\appsettings.json",
-              "RelativeDocumentMoniker": "Skinet\\appsettings.json",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\appsettings.json",
-              "RelativeToolTip": "Skinet\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T18:34:46.904Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T22:03:57.115Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StoreContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Migrations\\StoreContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\StoreContextModelSnapshot.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Migrations\\StoreContextModelSnapshot.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\StoreContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Skinet\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Skinet\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T20:12:44.337Z",
+              "WhenOpened": "2026-02-12T21:42:20.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StoreContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Migrations\\StoreContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Skinet\\Migrations\\StoreContextModelSnapshot.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Migrations\\StoreContextModelSnapshot.cs",
-              "RelativeToolTip": "Skinet\\Migrations\\StoreContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T20:12:00.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260212191912_[InitialMigrations].Designer.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Migrations\\20260212191912_[InitialMigrations].Designer.cs",
-              "RelativeDocumentMoniker": "Skinet\\Migrations\\20260212191912_[InitialMigrations].Designer.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Migrations\\20260212191912_[InitialMigrations].Designer.cs",
-              "RelativeToolTip": "Skinet\\Migrations\\20260212191912_[InitialMigrations].Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T20:11:30.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Program.cs",
               "RelativeDocumentMoniker": "Skinet\\Program.cs",
               "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Program.cs",
               "RelativeToolTip": "Skinet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:02:21.859Z",
+              "WhenOpened": "2026-02-12T21:24:00.035Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T21:22:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepositroy.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Interfaces\\IProductRepositroy.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepositroy.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Interfaces\\IProductRepositroy.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProductRepositroy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T21:15:38.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "products.json",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\products.json",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\SeedData\\products.json",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData\\products.json",
+              "ViewState": "AgIAACgAAAAAAAAAAAArwDkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T12:23:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContextSeed.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\StoreContextSeed.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\StoreContextSeed.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:59:59.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ProductType.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Core\\Entities\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T22:06:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ProductBrand.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\Entities\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T22:06:31.216Z"
             },
             {
               "$type": "Document",
@@ -154,140 +182,22 @@
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContext.cs",
               "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Data\\StoreContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\StoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T20:05:20.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Entities\\Product.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Entities\\Product.cs",
-              "RelativeToolTip": "Infrastructure\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T20:06:43.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T20:00:14.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Class1.cs",
-              "RelativeDocumentMoniker": "Core\\Class1.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Class1.cs",
-              "RelativeToolTip": "Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T19:58:36.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SkinetApi.csproj",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\SkinetApi.csproj",
-              "RelativeDocumentMoniker": "Skinet\\SkinetApi.csproj",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\SkinetApi.csproj",
-              "RelativeToolTip": "Skinet\\SkinetApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-12T18:11:15.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260212191912_[InitialMigrations].cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Migrations\\20260212191912_[InitialMigrations].cs",
-              "RelativeDocumentMoniker": "Skinet\\Migrations\\20260212191912_[InitialMigrations].cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Migrations\\20260212191912_[InitialMigrations].cs",
-              "RelativeToolTip": "Skinet\\Migrations\\20260212191912_[InitialMigrations].cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T19:22:05.881Z",
+              "WhenOpened": "2026-02-12T21:17:39.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Skinet.http",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Skinet.http",
-              "RelativeDocumentMoniker": "Skinet\\Skinet.http",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Skinet.http",
-              "RelativeToolTip": "Skinet\\Skinet.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-12T18:47:14.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Skinet\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Skinet\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAfAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:24:06.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Skinet\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Skinet\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T16:22:25.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Skinet\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Skinet\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:02:24.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Skinet\\WeatherForecast.cs",
-              "ToolTip": "D:\\.netFrameWork\\Ecommerce\\Skinet\\Skinet\\WeatherForecast.cs",
-              "RelativeToolTip": "Skinet\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:02:18.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T21:16:49.405Z"
             }
           ]
         }
